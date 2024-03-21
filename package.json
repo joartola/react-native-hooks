@@ -1,6 +1,6 @@
 {
-  "name": "react-native-hooks",
-  "version": "1.0.0",
+  "name": "react-and-react-native-hooks",
+  "version": "1.0.1",
   "type": "module",
   "description": "Usefull React and React Native hooks",
   "main": "dist/index.js",
@@ -18,10 +18,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/joartola/react-native-hooks"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/joartola/react-native-hooks/issues"
   },
   "dependencies": {
     "react": "^18.2.0",

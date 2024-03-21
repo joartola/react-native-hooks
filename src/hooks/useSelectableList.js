@@ -6,7 +6,7 @@ const useSelectableList = ({
   list = [],
 }) => {
  
-  const [selectedItems, setSelectedItems] = useState<ItemRecord>(initValue);
+  const [selectedItems, setSelectedItems] = useState(initValue);
 
   const isItemSelected = useCallback(
     (item) => {
