@@ -1,0 +1,5 @@
+node_modules
+.vscode
+dist
+react-native-hooks*.tgz
+.DS_Store
